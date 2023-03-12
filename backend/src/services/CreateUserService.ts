@@ -50,3 +50,5 @@ class CreateUserService {
 
     
 }
+
+export {CreateUserService}
